@@ -17,8 +17,6 @@ public class MainActivity extends Activity {
 		String phone = getResources().getString(R.string.phone_number);
 		startActivity(new Intent(Intent.ACTION_CALL, Uri.parse("tel://" + phone)));
 		
-//		Toast.makeText(this, phone, Toast.LENGTH_LONG).show();
-		
 		finish();
 	}
 	
