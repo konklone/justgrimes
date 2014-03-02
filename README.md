@@ -1,4 +1,3 @@
-justingrimes
-============
+## justgrimes
 
-Justin Grimes
+Get in touch with Justin Grimes.
