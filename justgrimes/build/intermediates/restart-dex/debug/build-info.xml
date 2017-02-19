@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="28101037463529"
+    token="-1606039656039179757"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="626" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="133" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="/home/eric/StudioProjects/justgrimes/justgrimes/build/outputs/apk/justgrimes-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="28101037463529"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/eric/StudioProjects/justgrimes/justgrimes/build/outputs/apk/justgrimes-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

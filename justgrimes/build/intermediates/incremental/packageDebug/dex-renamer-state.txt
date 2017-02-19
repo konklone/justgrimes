@@ -1,0 +1,7 @@
+#Sun Feb 19 21:58:22 SAST 2017
+base.0=/home/eric/StudioProjects/justgrimes/justgrimes/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ba1cc6efe6bba985ffabccd23fc34111ac205aed
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/eric/StudioProjects/justgrimes/justgrimes/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d8d3586c2636493cfc132d1e3130cc885b669b99/classes.dex
+base.1=/home/eric/StudioProjects/justgrimes/justgrimes/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d8d3586c2636493cfc132d1e3130cc885b669b99
+file.0=/home/eric/StudioProjects/justgrimes/justgrimes/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ba1cc6efe6bba985ffabccd23fc34111ac205aed/classes.dex
