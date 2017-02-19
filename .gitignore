@@ -1,8 +1,9 @@
-/gen
-/bin
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
 .DS_Store
-/.classpath
-/.project
-/project.properties
-/.settings
-/proguard-project.txt
+/build
+/captures
+.externalNativeBuild
